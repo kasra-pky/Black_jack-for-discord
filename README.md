@@ -22,11 +22,9 @@ A fun and interactive Discord bot that allows users to play Blackjack with frien
   - `/bjrank`: Show the top 10 players based on XP.
 
 ## Requirements
-- Python 3.8+
-- Discord.py library (`pip install discord.py`)
-- Openpyxl library for XP tracking (`pip install openpyxl`)
+- nothing
 
-Create a Discord Bot and Obtain Its Token: Follow these steps to create a bot and get its token:
+##Create a Discord Bot and Obtain Its Token: Follow these steps to create a bot and get its token:
 Go to the Discord Developer Portal.
 Click New Application, give it a name (e.g., "Blackjack Bot"), and click Create.
 In the left menu, select Bot and click Add Bot, then confirm by clicking Yes, do it!.
