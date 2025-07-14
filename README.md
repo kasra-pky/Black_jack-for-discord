@@ -27,7 +27,8 @@ A fun and interactive Discord bot that allows users to play Blackjack with frien
 **Create a Discord Bot and Obtain Its Token: Follow these steps to create a bot and get its token:**
 
 
-Go to the Discord Developer Portal.
+Go to the Discord Developer Portal.https://discord.com/developers/applications
+
 Click New Application, give it a name (e.g., "Blackjack Bot"), and click Create.
 In the left menu, select Bot and click Add Bot, then confirm by clicking Yes, do it!.
 Under the Token section, click Copy Token. Important: Keep this token private and never share it publicly.
