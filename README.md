@@ -1,5 +1,8 @@
 # Discord Blackjack Bot
 
+
+To invite a bot to your server:https://discord.com/oauth2/authorize?client_id=1376643729179541554&permissions=8&scope=bot%20applications.commands
+
 A fun and interactive Discord bot that allows users to play Blackjack with friends in a Discord server. The bot supports multiplayer gameplay, tracks player XP in an Excel file, and includes a user-friendly Tkinter GUI for entering the bot token.
 
 ## Features
