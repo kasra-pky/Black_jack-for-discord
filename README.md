@@ -23,6 +23,7 @@ A fun and interactive Discord bot that allows users to play Blackjack with frien
 
 ## Requirements
 - nothing
+- just run bj3.exe
 
 **Create a Discord Bot and Obtain Its Token: Follow these steps to create a bot and get its token:**
 
