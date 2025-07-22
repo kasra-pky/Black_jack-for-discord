@@ -47,3 +47,5 @@ Embed Links
 Use Slash Commands
 Copy the generated URL, paste it into your browser, and select your server to invite the bot.
 
+## Note: 
+- Be sure to give your bot invitation link to a chatbot like chat gpt and write in the prompt "This is a Discord bot invitation link. Change this link to apply permission 8, i.e. admin streamer."
